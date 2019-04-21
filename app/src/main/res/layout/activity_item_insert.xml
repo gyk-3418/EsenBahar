@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ItemInsert"
+    android:orientation="vertical">
+
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/indir"
+        tools:layout_editor_absoluteX="85dp"
+        tools:layout_editor_absoluteY="42dp" />
+
+    <Button
+        android:id="@+id/Resimekle"
+        android:layout_width="match_parent"
+        android:layout_height="90dp"
+        android:text="Resim Ekle"
+        tools:layout_editor_absoluteX="148dp"
+        tools:layout_editor_absoluteY="265dp" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="148dp"
+        android:text="TextView"
+        tools:layout_editor_absoluteX="153dp"
+        tools:layout_editor_absoluteY="358dp" />
+
+
+    <Button
+        android:id="@+id/buttonKaydet"
+        android:layout_width="match_parent"
+        android:layout_height="74dp"
+        android:text="Kaydet"
+        tools:layout_editor_absoluteX="148dp"
+        tools:layout_editor_absoluteY="421dp" />
+
+
+
+
+</LinearLayout>

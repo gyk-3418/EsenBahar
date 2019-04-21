@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "218316859953",
+    "firebase_url": "https://gelecek-2ef54.firebaseio.com",
+    "project_id": "gelecek-2ef54",
+    "storage_bucket": "gelecek-2ef54.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218316859953:android:1f0fcb77a7f352c6",
+        "android_client_info": {
+          "package_name": "com.esenbaharturkay.exampletwo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "218316859953-81h1q2oaekce8r2gefqjf0uos3rji6dh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.esenbaharturkay.exampletwo",
+            "certificate_hash": "3617de35e1333f46672c418719e303e2dfd6c5db"
+          }
+        },
+        {
+          "client_id": "218316859953-6lp13q0ndh16dp4vh3ii4qbdqutcpcds.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCl1r2NBxbQdGEpelEMYqW4xiPXnyoieZM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "218316859953-6lp13q0ndh16dp4vh3ii4qbdqutcpcds.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
